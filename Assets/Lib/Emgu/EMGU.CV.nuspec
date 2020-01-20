@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>EMGU.CV</id>
+    <version>4.1.1.3497</version>
+    <title>EMGU CV</title>
+    <authors>Emgu Corporation</authors>
+    <owners>Emgu Corporation</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">Emgu.CV.License.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>http://www.emgu.com/wiki/index.php</projectUrl>
+    <iconUrl>http://www.emgu.com/wiki/files/EmguCVLogo.gif</iconUrl>
+    <description>Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library. Allowing OpenCV functions to be called from .NET compatible languages such as C#, VB, VC++, IronPython etc.</description>
+    <summary>Emgu CV is a cross platform .Net wrapper to the OpenCV image processing library.</summary>
+    <releaseNotes>This is the 4.1.1 release of Emgu CV. For online documentation please visit
+http://www.emgu.com/wiki/files/4.1.1/document/index.html</releaseNotes>
+    <copyright>2019 Emgu Corporation, All Rights Reserved.</copyright>
+    <tags>opencv emgu emgucv ai image</tags>
+    <repository type="git" url="https://github.com/emgucv/emgucv" />
+    <dependencies>
+      <dependency id="ZedGraph" version="[5.1.7]" />
+    </dependencies>
+  </metadata>
+</package>
